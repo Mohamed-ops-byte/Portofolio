@@ -13,9 +13,9 @@ const projects = [
     image: `${imageBase}/photo-1507842217343-583bb7270b66?${imageParams}`,
   },
   {
-    title: 'نظام حجز عقارات (الأقصر)',
+    title: 'نظام حجز عقارات ',
     description:
-      'حجوزات العقارات مع خرائط تفاعلية، تقويمات توفر، وتجربة مناسبة لعملاء الأقصر.',
+      'حجوزات العقارات مع خرائط تفاعلية، تقويمات توفر، وتجربة مناسبة لعملاء .',
     stack: ['React', 'Maps', 'Calendar', 'Payments'],
     image: `${imageBase}/photo-1560518883-ce09059eeffa?${imageParams}`,
   },
